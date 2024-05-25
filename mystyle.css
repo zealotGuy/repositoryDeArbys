@@ -1,0 +1,15 @@
+body{
+    background-color: paleturquoise; 
+}
+
+p{
+    margin:auto;
+    width: 60%;
+    color:black;
+}
+img{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
